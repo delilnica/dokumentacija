@@ -3,7 +3,9 @@
 Storitev je trenutno v nastajanju, a so nekateri API klici že na voljo.
 
 
-## API
+## APIv1
+
+Vsem končnim točkam dodaj predpono `/v1`.
 
 - `/add` (POST) - dodaj nov fragment
 
